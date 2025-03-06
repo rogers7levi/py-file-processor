@@ -1,7 +1,3 @@
-Here’s a sample **README.md** for your file processor project:
-
----
-
 # **File Processor**
 
 This Python project automates the organization of files based on their types by classifying them into designated folders. It serves as a simple workflow for managing and organizing files, making it an excellent beginner-friendly project to learn Python concepts like file handling and directory management.
